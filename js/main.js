@@ -1,5 +1,5 @@
-const text = document.getElementById('demo');
-const btn = document.getElementById('btn');
+const text = document.getElementById("demo");
+const btn = document.getElementById("btn");
 
 const timer = () => {
   const time = new Date().toLocaleTimeString();
@@ -9,5 +9,3 @@ const timer = () => {
 btn.onclick = () => {
   setInterval(timer, 1000);
 };
-
-console.log();
