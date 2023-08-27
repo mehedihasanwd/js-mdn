@@ -1,3 +1,5 @@
+/* Method Type: Instance Method */
+
 /**
  * Syntax: charAt(index)
  */
