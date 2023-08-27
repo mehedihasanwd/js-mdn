@@ -9,3 +9,6 @@ const timer = () => {
 btn.onclick = () => {
   setInterval(timer, 1000);
 };
+/* Code Starts */
+
+/* Code Ends */
